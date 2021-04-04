@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+  h3{
+    font-family: 'Montserrat', sans-serif;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #f05945;
+    border-width: 8px;
+    width: 5%;
+    opacity: 30%;
+  }
+.top-container{
+  background-color: #f7f3e9;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+background-color: #a3d2ca;
+}
+.bottom-container{
+background-color: #5eaaa8;
+
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 400px;
+}
+.umiejetnosci{
+  width: 200px;
+}
+.czili{
+  width: 200px;
+}
