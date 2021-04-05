@@ -33,7 +33,7 @@ hr {
 }
 
 a {
-  color: #11999E;
+  color: black;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -80,6 +80,7 @@ padding: 50px 0 20px;
 }
 
 .umiejetnosci-img {
+  border-radius: 100%;
   float: left;
   margin-right: 30px;
   width: 25%;
@@ -143,6 +144,6 @@ padding: 50px 0 20px;
    text-decoration: none;
 }
 .copyright{
-  color: #FFFFFF;
+  color: #FFFFF1;
   font-family: 'Montserrat', sans-serif;
 }
