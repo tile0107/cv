@@ -27,7 +27,7 @@ h3 {
 }
 
 hr {
-  border: dotted #EAF6f6 6px;
+  border: dotted #66bfbf 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -91,9 +91,11 @@ padding: 50px 0 20px;
 .czili-img {
   float: right;
   margin-left: 30px;
-  width: 25%;
+  width: 28%;
 }
-
+.avek{
+  width: 3%;
+}
 .podtytul {
   font-weight: normal;
 }
